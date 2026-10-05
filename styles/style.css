@@ -1,0 +1,155 @@
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+French+Canon&family=Lato:ital,wght@0,400;0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Tint&display=swap');
+
+#content{
+    max-width: 1600px;
+    margin: 0 auto;
+}
+
+nav a{
+    text-align: center;
+    color: black;
+    text-decoration: none;
+    font-family: "Bungee Tint";
+    padding: 35px;
+}
+
+nav a:hover{
+    background-color: #396E94;
+    color: white;
+}
+
+#hero-msg h1, #hero-msg h2 {
+    text-align: center;
+}
+
+.button-box {
+    text-align: center;
+}
+
+main section {
+    text-align: center;
+}
+
+main section img{
+    box-sizing: border-box;
+}
+
+#background{
+    height: 725px;
+}
+
+body{
+    background-color: #39A9DB;
+    font-family: "Fira Sans", Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: #39A9DB;
+}
+
+.book, .join{
+    background-color: #39A9DB;
+    color: black;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 15px 30px;
+    margin-top: 50px;
+    border-radius: 5px;
+}
+
+.book:hover, .join:hover{
+    color: white;
+}
+
+#background{
+    background-color: #39A9DB;
+}
+
+.msg{
+    background-color: #39A9DB;
+    line-height: 1.5em;
+    padding: 35px;
+}
+
+.msg h2{
+    color: black;
+    font-family: "Bungee Tint";
+}
+
+.msg p{
+    color: black;
+    font-size: .8em;
+    padding-bottom: 15px;
+}
+
+footer{
+    background-color: #39A9DB;
+    color: black;
+    padding: 25px 50px;
+    margin-top: 200px;
+}
+
+footer p {
+    font-size: 1.2em;
+}
+
+footer p:hover{
+    text-decoration: underline;
+}
+
+footer a{
+    color: black;
+    text-decoration: none;
+}
+
+footer a:hover{
+    color: white;
+}
+
+footer .social img{
+    padding-top: 15px;
+}
+
+.home-title{
+    color: black;
+    font-family: "Bungee Tint";
+    font-size: 2em;
+    margin-top: 10px;
+}
+
+h4{
+    color: black;
+}
+
+.logo{
+    width: 80px;
+}
+
+.icon{
+    width: 80px;
+    padding-top: 10px;
+}
+
+#hero-img{
+    width: 100%;
+}
+
+h2{
+    margin: 0;
+}
+
+#logo_link{
+    padding-top: 5px;
+}
+
+.rivers-card, .camping-card, .rapids-card{
+    margin: 200px 0;
+}
+
+.card-img{
+    border: 10px solid black;
+}
+
